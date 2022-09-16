@@ -1,0 +1,10 @@
+p {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.employees {
+  /* border-width: 0.1em;
+  border-color: #ddd;
+  border-style: solid; */
+  border: 0.1em solid #ddd;
+}
